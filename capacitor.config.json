@@ -1,0 +1,10 @@
+{
+	"appId": "io.ionic.starter",
+<<<<<<< HEAD
+	"appName": "telopresto",
+=======
+	"appName": "teloprestoApp",
+>>>>>>> 86854cb6d79db986db021a6b4c523155c3df19ed
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

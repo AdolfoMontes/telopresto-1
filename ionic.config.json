@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "telopresto",
+  "integrations": {
+    "capacitor": {}
+  },
+=======
+<<<<<<< HEAD
+  "name": "teloprestoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+=======
+  "name": "telopresto-master",
+  "integrations": {},
+>>>>>>> e7c90b48ce77048dfb39ef30e581e6c41c7b804b
+>>>>>>> 86854cb6d79db986db021a6b4c523155c3df19ed
+  "type": "angular"
+}
